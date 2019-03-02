@@ -8,7 +8,6 @@ resetButton.addEventListener("click", resetQuiz)
 
 let resultArea = document.getElementById("result")
 
-
 //process results
 function processResults() {
   let personalityResult = getPersonality();
